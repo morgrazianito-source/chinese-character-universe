@@ -1,0 +1,17 @@
+[
+  {"id":"comp_qing","char":"青","type":"phonetic_component","meaning_core":["blue-green","clarity","freshness"],"notes":"Major phonetic family anchor for many Traditional characters.","related_families":["family_qing"]},
+  {"id":"comp_water","char":"氵","type":"radical","meaning_core":["water","flow","liquid"],"notes":"Semantic marker for water-related meanings.","related_families":[]},
+  {"id":"comp_heart_variant","char":"忄","type":"radical","meaning_core":["heart","feeling","emotion"],"notes":"Side-form of 心 used as a semantic marker in many emotion-related characters.","related_families":[]},
+  {"id":"comp_heart","char":"心","type":"radical","meaning_core":["heart","mind","emotional center"],"notes":"Core radical associated with affect, mind, and inner feeling.","related_families":[]},
+  {"id":"comp_sun","char":"日","type":"radical","meaning_core":["sun","day","light"],"notes":"Semantic marker for brightness, day, and illumination.","related_families":[]},
+  {"id":"comp_moon","char":"月","type":"semantic_component","meaning_core":["moon","monthly cycle","light"],"notes":"Appears in associative and semantic formations such as 明.","related_families":[]},
+  {"id":"comp_insect","char":"虫","type":"radical","meaning_core":["insect","small creature","biological life"],"notes":"Semantic marker for insects and related life forms.","related_families":[]},
+  {"id":"comp_person","char":"亻","type":"radical","meaning_core":["person","human","human presence"],"notes":"Side-form of 人 used as a human-domain semantic marker.","related_families":[]},
+  {"id":"comp_speech","char":"言","type":"radical","meaning_core":["speech","language","utterance"],"notes":"Semantic marker for speech and linguistic action.","related_families":[]},
+  {"id":"comp_rice","char":"米","type":"radical","meaning_core":["rice","grain","refined substance"],"notes":"Material/substance marker used in characters such as 精.","related_families":[]},
+  {"id":"comp_strife","char":"爭","type":"compound_component","meaning_core":["strive","contend"],"notes":"Important component in 靜; exact structural treatment should be carefully reviewed at scale.","related_families":[]},
+  {"id":"comp_wood","char":"木","type":"radical","meaning_core":["wood","tree","growth"],"notes":"Core semantic marker for plant life, wood, and growth.","related_families":["family_lin"]},
+  {"id":"comp_claw","char":"爫","type":"compound_component","meaning_core":["claw","grasping motion"],"notes":"Upper component in 愛; useful for fine-grained structural decomposition.","related_families":[]},
+  {"id":"comp_cover","char":"冖","type":"compound_component","meaning_core":["cover","roof","enclosure"],"notes":"Middle covering component in 愛 and other forms.","related_families":[]},
+  {"id":"comp_walk_slowly","char":"夂","type":"compound_component","meaning_core":["go","move slowly","follow"],"notes":"Lower movement-related component appearing in 愛 and other characters.","related_families":[]}
+]
